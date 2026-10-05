@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+	<remote name="erg-raphael" fetch="https://github.com/erg-raphael-5-4" />
+
+	<project name="android_hardware_qcom_display_sm8150"
+           path="hardware/qcom/sm8150/display"
+           remote="erg-raphael"
+	   revision="derp-17" />
+
+	<project name="android_hardware_nxp_nfc"
+           path="hardware/nxp/nfc"
+           remote="erg-raphael"
+	   revision="derp-17" />
+
+	<project name="erg-raphael-5-4/android_hardware_qcom_media_sm8150"
+           path="hardware/qcom/sm8150/media"
+           remote="erg-raphael"
+	   revision="derp-17" />
+
+	<project name="android_hardware_qcom_audio_sm8350"
+	    path="hardware/qcom/sm8350/audio"
+            remote="erg-raphael"
+       	    revision="lineage-23.2-caf-sm8350-raphael" />
+
+	<project name="android_hardware_qcom_display_sm8350"
+           path="hardware//sm8350/display"
+           remote="erg-raphael"
+	   revision="lineage-23.2-caf-sm8350-raphael" />
+
+	<project name="android_hardware_qcom_audio_sm8150"
+           path="hardware/qcom/sm8150/audio"
+           remote="erg-raphael"
+           revision="lineage-23.2-caf-sm8150-raphael" />
+
+</manifest>
